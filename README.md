@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **React Native**
 
-💬 Ask me about **Javascript, Typescript, React, Solidity, NodeJS... or anything [here](tusharshinde2250@gmail.com)**
+💬 Ask me about **Javascript, Typescript, React, Solidity, NodeJS...
 
  📫 How to reach me: kavitavidhate246@gmail.com
 </div>
